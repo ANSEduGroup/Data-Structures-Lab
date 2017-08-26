@@ -1,7 +1,7 @@
 # ASSIGNMENT 2
 --------------
 
-List of programes in ASSIGNMENT 2 using LINK LIST
+### List of functions using LINK LIST
 
 
 1.Insert at beginning of the list.
