@@ -1,4 +1,4 @@
-# D0ata Structures and C
+# Data Structures and C
 ---
 
 The below definition describes data structures using C beautifully and is an extract from the book **"Data Structures using C and C++** by **Yedidyah Langsam, Moshe J. Augenstein, Aaron M. Tenenbaum**
