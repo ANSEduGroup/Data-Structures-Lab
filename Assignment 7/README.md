@@ -2,7 +2,7 @@
 
 -----------
 
-Addition of Polynomial function usinf link list.
+Addition of Polynomial function using link list.
 
 # CS-392-06
 
