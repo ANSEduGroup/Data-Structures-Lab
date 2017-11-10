@@ -4,6 +4,13 @@
 
 Binary search tree.
 
+# CS-392-17
+
+------------
+
+Linear search.
+
+
 # CS-392-18
 
 ------------
